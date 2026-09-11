@@ -9,7 +9,6 @@ Prior to running this submission on your local machine, please ensure that the f
 ### Prerequisites
 * Internet connection
 * Docker Desktop
-* Valid OpenAI API Key, you may use your own one, or the one provided by me
 ### Starting up
 1. Clone the repository.
 2. Using your Terminal, navigate your directory to where docker-compose.yaml file is located.
